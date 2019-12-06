@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Configuration;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
+﻿// using System;
+// using System.Collections.Generic;
+// using System.Configuration;
+// using System.Data;
+// using System.Linq;
+// using System.Threading.Tasks;
 using System.Windows;
 
-namespace simple_with_dotnet_exe
-{
-    /// <summary>
-    /// Interaction logic for App.xaml
-    /// </summary>
-    public partial class App : Application
-    {
+namespace nsnsns {
+    public partial class App : Application {
     }
 }

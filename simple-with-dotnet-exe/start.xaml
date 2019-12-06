@@ -1,0 +1,10 @@
+﻿<Window
+  xmlns       = "http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x     = "http://schemas.microsoft.com/winfx/2006/xaml"
+  x:Class     = "nsnsns.TheWindow"
+  Title       = "Title of Main Window"
+  Height      = "200"
+  Width       = "800"
+>
+    <Grid></Grid>
+</Window>
